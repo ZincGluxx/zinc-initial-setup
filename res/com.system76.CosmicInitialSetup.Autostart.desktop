@@ -1,13 +1,13 @@
 [Desktop Entry]
 Type=Application
-Name=COSMIC Initial Setup
-Name[zh_CN]=COSMIC 初始设置
-Name[ar]=الإعداد الأولي ل COSMIC
-Name[cs]=Úvodní nastavení COSMIC
-Name[hu]=COSMIC Első Beállítás
-Name[pl]=Wstępna konfiguracja COSMIC
-Name[pt]=Ajustes Iniciais do COSMIC
-Name[it]=Setup iniziale di COSMIC
+Name=Zinc Initial Setup
+Name[zh_CN]=Zinc 初始设置
+Name[ar]=الإعداد الأولي ل Zinc
+Name[cs]=Úvodní nastavení Zinc
+Name[hu]=Zinc Első Beállítás
+Name[pl]=Wstępna konfiguracja Zinc
+Name[pt]=Ajustes Iniciais do Zinc
+Name[it]=Setup iniziale di Zinc
 Exec=cosmic-initial-setup
 NoDisplay=true
 Terminal=false

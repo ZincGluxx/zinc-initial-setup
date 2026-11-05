@@ -53,7 +53,7 @@ layout-page = Nastavení rozložení
     .description = V nastavení lze panel i dok přesunout k libovolnému okraji, změnit velikost nebo také nastavit automatické skrývání.
 # SystemAppsPage
 new-apps-page = Nové systémové aplikace
-    .description = Vyzkoušejte řadu nových systémových aplikací, které jsou součástí prostředí COSMIC. Patří mezi ně: Nastavení, Obchod COSMIC, Soubory, Textový editor nebo Terminál.
+    .description = Vyzkoušejte řadu nových systémových aplikací, které jsou součástí prostředí Zinc. Patří mezi ně: Nastavení, Obchod Zinc, Soubory, Textový editor nebo Terminál.
 # NewKeyboardShortcutsPage
 new-shortcuts-page = Nové klávesové zkratky
     .description = Pro přesouvání oken použijte Shift + Super + šipky nebo okna přetáhněte ukazatelem. Pokud používáte dlaždicový režim oken, využijte vizuálních nápověd.

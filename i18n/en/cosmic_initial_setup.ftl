@@ -61,7 +61,7 @@ layout-page = Layout configuration
 
 # SystemAppsPage
 new-apps-page = New system applications
-    .description = Enjoy an array of new system applications that come with the COSMIC desktop environment. Including Settings, COSMIC App Store, Files, Text Editor, and Terminal.
+    .description = Enjoy an array of new system applications that come with the Zinc desktop environment. Including Settings, Zinc App Store, Files, Text Editor, and Terminal.
 
 # NewKeyboardShortcutsPage
 new-shortcuts-page = New keyboard shortcuts

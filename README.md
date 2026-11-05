@@ -1,3 +1,3 @@
-# cosmic-initial-setup
+# zinc-initial-setup
 
-COSMIC Initial Setup
+Zinc Initial Setup
